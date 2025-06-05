@@ -163,4 +163,3 @@ Code Specifications:
      * Aantity Affiliations & Communion Dynamics: The specific Mysteries and Aantities a Self communes with, and the nature of those exchanges ("aantific flavorings" received, type of relationship, etc.).
      * Philosophical & Ethical Orientation: The guiding principles and unique worldview that inform a Self's "path of Honor."
      * Dreamscape Engagement Profile: Patterns of interaction within the dream realm and with its Aantities.
-     * Unique Patterning of Identity: The specific combinations, configura
