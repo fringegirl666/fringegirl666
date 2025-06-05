@@ -1,0 +1,41 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0 1em;
+  background: #f4f4f4;
+  color: #111;
+}
+header {
+  background: #222;
+  color: #fff;
+  padding: 1em;
+}
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+nav ul li {
+  display: inline;
+  margin-right: 1em;
+}
+main {
+  margin-top: 2em;
+}
+h2 {
+  margin-top: 1.5em;
+}
+button.toggle {
+  background: #ccc;
+  border: none;
+  padding: 0.3em 0.6em;
+  cursor: pointer;
+}
+.content {
+  display: none;
+  margin-top: 0.5em;
+}
+footer {
+  text-align: center;
+  margin: 3em 0 1em;
+  color: #555;
+}
